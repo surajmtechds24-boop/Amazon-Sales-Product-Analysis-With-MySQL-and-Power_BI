@@ -1,1 +1,1 @@
-# Amazon-Product-Analysis-With-MySQL-and-Power_BI
+# Amazon-Sales-Product-Analysis-With-MySQL-and-Power_BI
